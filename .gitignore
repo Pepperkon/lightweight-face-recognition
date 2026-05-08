@@ -1,0 +1,14 @@
+venv/
+env/
+__pycache__/
+
+models/*.onnx
+models/*.pt
+models/*.tflite
+models/*.h5
+models/*.pb
+
+dataset/
+*.jpg
+*.png
+*.npy
